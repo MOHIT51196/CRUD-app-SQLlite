@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="check_your_confirm_code">We have sent the confirmation code to your mail. please check your inbox.</string>
+    <string name="awesome_thanks">Awesome. Thanks!</string>
+    <string name="resend">Resend</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="image_desc">image</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="email_not_verified">Your email is not verified yet.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="welcome_to_internapp">Welcome to InternApp</string>
+
+    <string name="sp_users">users</string>
+    <string name="sp_uid">user_id</string>
+    <string name="sp_is_user_signedin">is_user_signedin</string>
+    <string name="username">Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_app">Welcome to App</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
